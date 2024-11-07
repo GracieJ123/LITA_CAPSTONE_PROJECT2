@@ -20,8 +20,10 @@
 
 ### PROJECT OVERVIEW
 ----
-This data analysis aims to generate insight into the sales performance of a retail store.
-So the need for exploration of the sales data to uncover key insights, to make reasonable decisions which enable to tell compelling stories and know the performances from our data.
+This data analysis aims to generate insight into the customer data for a subscription service to identify
+segments and trends. The goal is to understand customer behavior, track subscription types,
+and identify key trends in cancellations and renewals. So the need for exploration of the customer data to uncover key insights, 
+to make reasonable decisions which enable to tell compelling stories and know the performances from our data.
  
 ### DATA SOURCES
 ----
@@ -47,9 +49,10 @@ The Primary Source of the Data Used here, LITA Capstone Dataset.xlsx
 ### EXPLORATORY AND ANALYSIS
 ----
 This involves the exploration of the Data to answer question such as:
- -top-selling products.
- -regional performance. 
- -monthly sales trends.
+- find the most popular subscription type by the number of customers.
+- find customers who canceled their subscription within 6 months.
+- calculate the average subscription duration for all customers.
+- find customers with subscriptions longer than 12 months.
 
 ### DATA ANALYSIS
 ----
