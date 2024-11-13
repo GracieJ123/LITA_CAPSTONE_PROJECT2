@@ -173,3 +173,12 @@ GROUP BY
 ![SQL CONSUMER 7](https://github.com/user-attachments/assets/6c4790a2-8c60-4823-a76e-a25f26ddeef5)
 
 ### VISUALIZATIONS
+
+![CONSUMER 1](https://github.com/user-attachments/assets/7d71ae6f-f474-409d-be65-07ba4f61dafb)
+
+![CONSUMER 2](https://github.com/user-attachments/assets/3d987f94-6a23-43ba-8092-a3a6ff4b50dd)
+
+![CONSUMER 3](https://github.com/user-attachments/assets/dd7ff858-b1e5-479f-b8e6-ab3d686662e8)
+
+![CONSUMER 4](https://github.com/user-attachments/assets/3fc58944-effb-4d3d-995f-68a02ecf038a)
+
